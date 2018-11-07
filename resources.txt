@@ -1,0 +1,7 @@
+
+- Video tutorial
+https://www.youtube.com/watch?v=jG3bu0tjFbk
+- Training Haar to detect a banana
+https://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html
+- Opencv tutorial
+https://docs.opencv.org/3.4/dc/d88/tutorial_traincascade.html
